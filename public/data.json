@@ -1,0 +1,7 @@
+{
+	"blog":{"title":["Latest WEB technologies","PHP Magic","HTML & CSS"],
+			"image":["web1.jpg","web2.jpg","web3.jpg"],
+			"author":["Tim Lee","Kim Jae Wong","Williams S"],
+			"date":["17/10/2016","25/5/2016","19/10/2016"]
+	}
+} 

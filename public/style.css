@@ -1,0 +1,43 @@
+body{
+	background-image: url('bg1.jpg');
+	background-repeat: no-repeat;
+	background-size: 1350px 1024px;
+}
+.re{
+
+	background-image: url('bg1.jpg');
+	background-repeat: no-repeat;
+	background-size: 1350px 1024px;
+}
+h1{
+	text-align: center;
+	padding: 20px;
+	padding-top: 40px;
+	font-size: 40px;
+	color: red;
+	/*background-color:#624ac3;*/
+
+}
+h3{
+	text-align: center;
+	padding: 10px;
+	font-size: 30px;
+}
+p{
+	/*text-align: center;*/
+	font-size: 22px;
+}
+.for p{
+	font-size: 17px;
+}
+input{
+	margin-right: 60px;
+	margin: 11px;
+	font-size: 18px;
+}
+.sub{
+	text-align: center;
+}
+a{
+	color: black;
+}
